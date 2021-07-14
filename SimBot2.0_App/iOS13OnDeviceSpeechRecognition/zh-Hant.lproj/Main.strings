@@ -1,0 +1,66 @@
+
+/* Class = "UILabel"; text = "您說的是："; ObjectID = "344-Ua-iH1"; */
+"344-Ua-iH1.text" = "您說的是：";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "5He-v4-Cgb"; */
+"5He-v4-Cgb.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "8yg-j5-1xy"; */
+"8yg-j5-1xy.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "AHx-ct-UMO"; */
+"AHx-ct-UMO.normalTitle" = "Back";
+
+/* Class = "UITextView"; text = "http://140.125.32.141:3000/master.html"; ObjectID = "Fe6-MW-GDd"; */
+"Fe6-MW-GDd.text" = "http://140.125.32.141:3000/master.html";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "GCB-Ok-dv3"; */
+"GCB-Ok-dv3.normalTitle" = "Send";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "GsN-8x-DNn"; */
+"GsN-8x-DNn.normalTitle" = "Send";
+
+/* Class = "UIButton"; normalTitle = "SimBot"; ObjectID = "INO-aQ-Jy1"; */
+"INO-aQ-Jy1.normalTitle" = "SimBot";
+
+/* Class = "UIButton"; normalTitle = "back"; ObjectID = "M9G-c5-GA6"; */
+"M9G-c5-GA6.normalTitle" = "back";
+
+/* Class = "UILabel"; text = "學校"; ObjectID = "OZP-0V-onN"; */
+"OZP-0V-onN.text" = "學校";
+
+/* Class = "UIButton"; normalTitle = "clear all"; ObjectID = "QTu-PO-nyd"; */
+"QTu-PO-nyd.normalTitle" = "clear all";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "SdW-65-qy1"; */
+"SdW-65-qy1.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "機器辨識的紀錄"; ObjectID = "TGx-js-lGd"; */
+"TGx-js-lGd.text" = "機器辨識的紀錄";
+
+/* Class = "UIButton"; normalTitle = "YunBot"; ObjectID = "UE4-02-B3e"; */
+"UE4-02-B3e.normalTitle" = "YunBot";
+
+/* Class = "UILabel"; text = "分數記錄"; ObjectID = "bZ3-Hq-FnL"; */
+"bZ3-Hq-FnL.text" = "分數記錄";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "emK-UE-V40"; */
+"emK-UE-V40.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "i5c-ef-D3s"; */
+"i5c-ef-D3s.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "分數是："; ObjectID = "jzI-qZ-AXN"; */
+"jzI-qZ-AXN.text" = "分數是：";
+
+/* Class = "UIButton"; normalTitle = "登入"; ObjectID = "tXR-6Z-KYl"; */
+"tXR-6Z-KYl.normalTitle" = "登入";
+
+/* Class = "UILabel"; text = "名字"; ObjectID = "ucO-Nu-dfo"; */
+"ucO-Nu-dfo.text" = "名字";
+
+/* Class = "UILabel"; text = "您說過的紀錄"; ObjectID = "xHB-0I-Pqi"; */
+"xHB-0I-Pqi.text" = "您說過的紀錄";
+
+/* Class = "UIButton"; normalTitle = "Score"; ObjectID = "zXy-5M-CZq"; */
+"zXy-5M-CZq.normalTitle" = "Score";
